@@ -21,7 +21,6 @@
 - [x] Pagination
   Shows the number of slides left (1/2). It can be turned off.
 
-
-Definition of Done:
+## Definition of Done
 
 - [ ] Users can create a presentation similar to the official Bouvet presentation template.

@@ -15,8 +15,12 @@ frontpage {
   background-color: #F9EAD4;
 }
 
-h1 {
-  font-size: large;
+h1,
+h2,
+h3,
+p,
+ol,
+ul {
   color: #F9EAD4
 }
 

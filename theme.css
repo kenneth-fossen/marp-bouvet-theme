@@ -1,0 +1,29 @@
+/* @theme bouvet */
+
+@import 'default';
+
+:root {
+    background-color: #11133C;
+}
+
+header {
+  top: 30px;
+  right: 0px;
+}
+
+frontpage {
+  background-color: #F9EAD4;
+}
+
+h1 {
+  font-size: large;
+  color: #F9EAD4
+}
+
+background {
+  color: #11133C
+}
+
+section::after {
+    content: 'Page ' attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
+}

@@ -2,13 +2,14 @@
 marp: true
 theme: bouvet
 paginate: true
-header: 'bouvet'
+header: 'header'
 ---
-
+<!-- _class: lead -->
 ![bg right:40% 80%]()
-# Title 
+# Presentasjons-mal
 
-by Kenneth Fossen
+## Mellom titel
+### by Kenneth Fossen
 
 ---
 
@@ -42,4 +43,9 @@ by Kenneth Fossen
 > rm -rf /
 ```
 
+```haskell
+fun (x:xs) = odd x
+    where
+        odd y = y mod 2 == 0
+```
 ---

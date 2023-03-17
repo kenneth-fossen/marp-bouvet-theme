@@ -5,7 +5,6 @@ paginate: true
 header: 'header'
 ---
 <!-- _class: lead -->
-![bg right:40% 80%]()
 # Presentasjons-mal
 
 ## Mellom titel

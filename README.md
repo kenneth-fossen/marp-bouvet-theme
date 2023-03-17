@@ -50,5 +50,9 @@ theme: bouvet
 
 # PRESENTASJONS-MAL
 
+## Marp for VSCode
+
+Laget av Kenneth
+
 ---
 ```

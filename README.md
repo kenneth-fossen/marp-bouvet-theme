@@ -15,7 +15,9 @@
 ## Todo
 
 - [x] Create CSS Frontpage
-- [ ] Create CSS Header for Bovuet
+  - [x] Fix the white line bug
+- [x] Create CSS Header for Bovuet
+- [ ] Bouvet in the background top right corner
 - [x] Use correct font
 - [x] Pagination
   Shows the number of slides left (1/2). It can be turned off.
@@ -26,7 +28,7 @@
 
 ## Bugs
 
-- Small background line at the front page
+- Small "white" background line on the front page
 - Missing logo on Second slide and out
 
 ## How to use
@@ -35,7 +37,7 @@
 - Open settings
   - Find `Marp for VSCode`
   - `Markdown: Marp: Themes` add the following URL:
-  - https://raw.githubusercontent.com/kenneth-fossen/marp-bouvet-theme/main/theme.css
+  - [https://raw.githubusercontent.com/kenneth-fossen/marp-bouvet-theme/main/theme.css](https://raw.githubusercontent.com/kenneth-fossen/marp-bouvet-theme/main/theme.css)
 
 ## Create presentations
 

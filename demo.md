@@ -6,7 +6,7 @@ paginate: true
 <!-- _class: lead -->
 # Presentasjons-mal
 
-## Mellom titel
+## Mellom tittel
 
 ### by Kenneth Fossen
 

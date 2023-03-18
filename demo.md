@@ -2,12 +2,12 @@
 marp: true
 theme: bouvet
 paginate: true
-header: 'header'
 ---
 <!-- _class: lead -->
 # Presentasjons-mal
 
 ## Mellom titel
+
 ### by Kenneth Fossen
 
 ---
@@ -34,8 +34,8 @@ header: 'header'
 - point one
 - point two
 
-
 ---
+
 # Run this
 
 ```sh
@@ -47,4 +47,5 @@ fun (x:xs) = odd x
     where
         odd y = y mod 2 == 0
 ```
+
 ---

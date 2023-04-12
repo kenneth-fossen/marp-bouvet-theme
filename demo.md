@@ -19,6 +19,15 @@ paginate: true
 ### H3
 
 ---
+<!-- _class: offwhite -->
+
+# H1
+
+## H2
+
+### H3
+
+---
 
 # Numbered lists
 

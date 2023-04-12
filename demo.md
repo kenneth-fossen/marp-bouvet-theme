@@ -19,7 +19,7 @@ paginate: true
 ### H3
 
 ---
-<!-- _class: offwhite -->
+<!-- _class: white -->
 
 # H1
 
@@ -56,5 +56,29 @@ fun (x:xs) = odd x
     where
         odd y = y mod 2 == 0
 ```
+
+---
+
+<!-- _class: center -->
+
+# Should be centered H1
+
+## Should be centered H2
+
+### Should be centered H3
+
+Should be centered p
+
+---
+
+<!-- _class: center-white -->
+
+# Should be centered H1
+
+## Should be centered H2
+
+### Should be centered H3
+
+Should be centered p
 
 ---

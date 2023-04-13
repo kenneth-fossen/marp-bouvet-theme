@@ -82,3 +82,13 @@ Should be centered p
 Should be centered p
 
 ---
+
+
+---
+
+<!-- _class: white -->
+# White with lists
+
+- Should show
+
+1. Should Show

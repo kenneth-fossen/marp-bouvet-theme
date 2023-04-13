@@ -105,7 +105,9 @@ section.white h1 {
 }
 section.white h2, 
 section.white h3,
-section.white p { 
+section.white p, 
+section.white ul, 
+section.white li { 
   color: var(--bouvet-blue);
   font-weight: bold;
 }
